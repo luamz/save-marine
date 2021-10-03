@@ -1,4 +1,4 @@
-[Read this in English](https://github.com/luamz/save-marine/blob/master/README.en.md)
+[Read this page in English](https://github.com/luamz/save-marine/blob/master/README.en.md)
 
 # Save Marine
 __Desenvolvido por Luam Silva e Lucas Fauster - 2018__
