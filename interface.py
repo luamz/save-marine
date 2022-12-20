@@ -51,11 +51,11 @@ def interface(janela, pontos, vidas, fase):
     score.y = 25 - score.height/2
     score.x = 443 - score.width/2
 
-    d1 = {0: Sprite("interface/0.png"), 1: Sprite("interface/1.png"), 2: Sprite("interface/2.png"), 3: Sprite("interface/3.png"), 4: Sprite("interface/4.png"), 5: Sprite("interface/5.png"), 6: Sprite("interface/6.png"), 7: Sprite("interface/7.png"), 8: Sprite("interface/8.png"), 9: Sprite("interface/9.png")}
-    d2 = {0: Sprite("interface/0.png"), 1: Sprite("interface/1.png"), 2: Sprite("interface/2.png"), 3: Sprite("interface/3.png"), 4: Sprite("interface/4.png"), 5: Sprite("interface/5.png"), 6: Sprite("interface/6.png"), 7: Sprite("interface/7.png"), 8: Sprite("interface/8.png"), 9: Sprite("interface/9.png")}
-    d3 = {0: Sprite("interface/0.png"), 1: Sprite("interface/1.png"), 2: Sprite("interface/2.png"), 3: Sprite("interface/3.png"), 4: Sprite("interface/4.png"), 5: Sprite("interface/5.png"), 6: Sprite("interface/6.png"), 7: Sprite("interface/7.png"), 8: Sprite("interface/8.png"), 9: Sprite("interface/9.png")}
-    d4 = {0: Sprite("interface/0.png"), 1: Sprite("interface/1.png"), 2: Sprite("interface/2.png"), 3: Sprite("interface/3.png"), 4: Sprite("interface/4.png"), 5: Sprite("interface/5.png"), 6: Sprite("interface/6.png"), 7: Sprite("interface/7.png"), 8: Sprite("interface/8.png"), 9: Sprite("interface/9.png")}
-    d5 = {0: Sprite("interface/0.png"), 1: Sprite("interface/1.png"), 2: Sprite("interface/2.png"), 3: Sprite("interface/3.png"), 4: Sprite("interface/4.png"), 5: Sprite("interface/5.png"), 6: Sprite("interface/6.png"), 7: Sprite("interface/7.png"), 8: Sprite("interface/8.png"), 9: Sprite("interface/9.png")}
+    d1 = {0: Sprite("Interface/0.png"), 1: Sprite("Interface/1.png"), 2: Sprite("Interface/2.png"), 3: Sprite("Interface/3.png"), 4: Sprite("Interface/4.png"), 5: Sprite("Interface/5.png"), 6: Sprite("Interface/6.png"), 7: Sprite("Interface/7.png"), 8: Sprite("Interface/8.png"), 9: Sprite("Interface/9.png")}
+    d2 = {0: Sprite("Interface/0.png"), 1: Sprite("Interface/1.png"), 2: Sprite("Interface/2.png"), 3: Sprite("Interface/3.png"), 4: Sprite("Interface/4.png"), 5: Sprite("Interface/5.png"), 6: Sprite("Interface/6.png"), 7: Sprite("Interface/7.png"), 8: Sprite("Interface/8.png"), 9: Sprite("Interface/9.png")}
+    d3 = {0: Sprite("Interface/0.png"), 1: Sprite("Interface/1.png"), 2: Sprite("Interface/2.png"), 3: Sprite("Interface/3.png"), 4: Sprite("Interface/4.png"), 5: Sprite("Interface/5.png"), 6: Sprite("Interface/6.png"), 7: Sprite("Interface/7.png"), 8: Sprite("Interface/8.png"), 9: Sprite("Interface/9.png")}
+    d4 = {0: Sprite("Interface/0.png"), 1: Sprite("Interface/1.png"), 2: Sprite("Interface/2.png"), 3: Sprite("Interface/3.png"), 4: Sprite("Interface/4.png"), 5: Sprite("Interface/5.png"), 6: Sprite("Interface/6.png"), 7: Sprite("Interface/7.png"), 8: Sprite("Interface/8.png"), 9: Sprite("Interface/9.png")}
+    d5 = {0: Sprite("Interface/0.png"), 1: Sprite("Interface/1.png"), 2: Sprite("Interface/2.png"), 3: Sprite("Interface/3.png"), 4: Sprite("Interface/4.png"), 5: Sprite("Interface/5.png"), 6: Sprite("Interface/6.png"), 7: Sprite("Interface/7.png"), 8: Sprite("Interface/8.png"), 9: Sprite("Interface/9.png")}
 
     dig1 = (d5.get(int(pontos / 10000)))
     dig2 = (d4.get(int((pontos % 10000) / 1000)))

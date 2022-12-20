@@ -1,5 +1,5 @@
 # Imports
-from PPlay.window import*
+from PPlay.window import *
 import menu as menu
 import exec as ex
 
