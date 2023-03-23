@@ -1,7 +1,7 @@
 [Read this page in English](https://github.com/luamz/save-marine/blob/master/README.en.md)
 
 # Save Marine
-__Desenvolvido por Luam Souza e Lucas Fauster - 2018__
+__Desenvolvido por Luam Souza e Lucas Fauster - 2019.1__
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50959073/106484768-b1706980-648e-11eb-9f3d-626dae75db6a.png" />
 </p>
