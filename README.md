@@ -11,7 +11,7 @@ Save Marine é um jogo desenvolvido em Python3, fazendo uso da biblioteca Pygame
 O jogo tem como enredo um submarino que navega por diversos Oceanos recolhendo lixo para reduzir a poluição marítima, mas para isso é necessário que ele desvie dos diversos obstáculso que o mar guarda e volte a salvo para a superfície.
 
 ## Instalação
-O único pré-requisito da aplicação é a instalação da biblioteca [Pygame](https://www.pygame.org/wiki/GettingStarted), em seguida, basta clonar o repositório e executar o arquivo *main.py*
+O único pré-requisito da aplicação é a instalação da biblioteca [Pygame](https://www.pygame.org/wiki/GettingStarted), em seguida, basta clonar o repositório e executar o arquivo *main.py*.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50959073/106483769-a5d07300-648d-11eb-9bd6-f117b640f8e8.png" />
 </p>
