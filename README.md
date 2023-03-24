@@ -6,7 +6,7 @@ __Desenvolvido por Luam Souza e Lucas Fauster - 2019.1__
   <img src="https://user-images.githubusercontent.com/50959073/106484768-b1706980-648e-11eb-9f3d-626dae75db6a.png" />
 </p>
 
-Save Marine é um jogo desenvolvido em Python3, fazendo uso da biblioteca Pygame e da framework PPlay.
+Save Marine é um jogo desenvolvido em Python3, fazendo uso da biblioteca Pygame e da framework PPlay..
 
 O jogo tem como enredo um submarino que navega por diversos Oceanos recolhendo lixo para reduzir a poluição marítima, mas para isso é necessário que ele desvie dos diversos obstáculso que o mar guarda e volte a salvo para a superfície.
 
